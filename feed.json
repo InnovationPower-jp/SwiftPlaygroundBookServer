@@ -1,0 +1,30 @@
+{
+    "title": "NumberTappedTest",
+    "publisherName": "Innovation Power",
+    "feedIdentifier": "jp.inpw",
+    "contactURL": "info@inpw.jp",
+    "formatVersion": "1.0",
+    "documents": [
+        {
+            "title": "数字抹消試験アプリ",
+            "overviewSubtitle": "数字抹消試験アプリの開発テキスト",
+            "detailSubtitle": "",
+            "description": "",
+            "contentIdentifier": "com.jp.inpw.NumberTappedTest",
+            "contentVersion": "1.0",
+            "url": "https://innovationpower-jp.github.io/SwiftPlaygroundBookServer/PlaygroundBook.playgroundbook.zip",
+            "publishedDate": "2019-09-04T12:00:00+00:00",
+            "lastUpdatedDate": "2019-09-04T12:00:00+00:00",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "English"
+                }
+            ],
+            "previewImageURLs": [
+                "https://sonson.jp/playgrounds/playpixels/preview00.png",
+                "https://sonson.jp/playgrounds/playpixels/preview01.png"
+            ]
+        }
+    ]
+}
