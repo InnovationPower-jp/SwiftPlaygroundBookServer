@@ -1,7 +1,7 @@
 {
     "title": "NumberTappedTest",
     "publisherName": "Innovation Power",
-    "feedIdentifier": "co.github.InnovationPower-jp",
+    "feedIdentifier": "io.github.InnovationPower-jp",
     "contactURL": "info@inpw.jp",
     "formatVersion": "1.0",
     "documents": [
@@ -12,7 +12,7 @@
             "description": "",
             "contentIdentifier": "com.jp.inpw.NumberTappedTest",
             "contentVersion": "1.0",
-            "url": "https://InnovationPower-jp.github.io/SwiftPlaygroundBookServer/NumberTapped/NumberTapped.playgroundbook.zip",
+            "url": "https://innovationpower-jp.github.io/SwiftPlaygroundBookServer/NumberTapped/NumberTapped.playgroundbook.zip",
             "publishedDate": "2019-09-04T12:00:00+00:00",
             "lastUpdatedDate": "2019-09-04T12:00:00+00:00",
             "additionalInformation": [
