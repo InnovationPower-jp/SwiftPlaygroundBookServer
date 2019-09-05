@@ -1,7 +1,7 @@
 {
     "title": "NumberTappedTest",
     "publisherName": "Innovation Power",
-    "feedIdentifier": "io.github.InnovationPower-jp",
+    "feedIdentifier": "jp.inpw",
     "contactURL": "info@inpw.jp",
     "formatVersion": "1.0",
     "documents": [
@@ -10,7 +10,7 @@
             "overviewSubtitle": "数字抹消試験アプリの開発テキスト",
             "detailSubtitle": "",
             "description": "",
-            "contentIdentifier": "com.jp.inpw.NumberTappedTest",
+            "contentIdentifier": "jp.inpw.NumberTappedTest",
             "contentVersion": "1.0",
             "url": "https://github.com/InnovationPower-jp/SwiftPlaygroundBookServer/releases/download/1.0/NumberTapped.playgroundbook.zip",
             "publishedDate": "2019-09-04T12:00:00+00:00",
