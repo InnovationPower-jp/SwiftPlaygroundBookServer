@@ -1,20 +1,23 @@
 {
-    "title": "NumberTappedTest",
+    "title": "NumberTapped",
     "publisherName": "Innovation Power",
     "feedIdentifier": "jp.inpw",
     "contactURL": "info@inpw.jp",
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "数字抹消試験アプリ",
-            "overviewSubtitle": "数字抹消試験アプリの開発テキスト",
+            "title": "NumberTapped",
+            "overviewSubtitle": "数字抹消試験のアプリ制作",
             "detailSubtitle": "",
             "description": "",
-            "contentIdentifier": "jp.inpw.NumberTappedTest",
+            "contentIdentifier": "jp.inpw.NumberTapped",
             "contentVersion": "1.0",
             "url": "https://github.com/InnovationPower-jp/SwiftPlaygroundBookServer/releases/download/1.0/NumberTapped.playgroundbook.zip",
-            "publishedDate": "2019-09-04T12:00:00+00:00",
-            "lastUpdatedDate": "2019-09-04T12:00:00+00:00",
+            "publishedDate": "2019-09-09T12:00:00+00:00",
+            "lastUpdatedDate": "2019-09-09T12:00:00+00:00",
+            "sha512": "747517517687c036f91564505d8376a291f67768d0d2fded33910351b82fd4b4d2a9f36a9dc19f0cf866f1e6ec24116c80b5be02461bd5e465033575245b4afb",
+            "thumbnailURL": "https://raw.githubusercontent.com/murawakimitsuhiro/LineBisectorEdu/master/images/thumbnail.png",
+            "bannerImageURL": "https://raw.githubusercontent.com/murawakimitsuhiro/LineBisectorEdu/master/images/banner_2x.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
