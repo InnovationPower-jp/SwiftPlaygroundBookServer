@@ -1,6 +1,6 @@
 {
-    "title": "NumberTapped",
-    "publisherName": "Innovation Power",
+    "title": "数字抹消試験アプリ",
+    "publisherName": "inpw.dev",
     "feedIdentifier": "jp.inpw",
     "contactURL": "info@inpw.jp",
     "formatVersion": "1.0",
@@ -16,8 +16,8 @@
             "publishedDate": "2019-09-09T12:00:00+00:00",
             "lastUpdatedDate": "2019-09-09T12:00:00+00:00",
             "sha512": "747517517687c036f91564505d8376a291f67768d0d2fded33910351b82fd4b4d2a9f36a9dc19f0cf866f1e6ec24116c80b5be02461bd5e465033575245b4afb",
-            "thumbnailURL": "https://raw.githubusercontent.com/murawakimitsuhiro/LineBisectorEdu/master/images/thumbnail.png",
-            "bannerImageURL": "https://raw.githubusercontent.com/murawakimitsuhiro/LineBisectorEdu/master/images/banner_2x.png",
+            "thumbnailURL": "https://raw.githubusercontent.com/InnovationPower-jp/SwiftPlaygroundBookServer/master/image/logo.png",
+            "bannerImageURL": "https://raw.githubusercontent.com/InnovationPower-jp/SwiftPlaygroundBookServer/master/image/logo.png",
             "additionalInformation": [
                 {
                     "name": "Languages",
@@ -25,8 +25,7 @@
                 }
             ],
             "previewImageURLs": [
-                "https://sonson.jp/playgrounds/playpixels/preview00.png",
-                "https://sonson.jp/playgrounds/playpixels/preview01.png"
+                "https://raw.githubusercontent.com/InnovationPower-jp/SwiftPlaygroundBookServer/master/image/thumbnail-01.PNG"
             ]
         }
     ]
