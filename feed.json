@@ -6,8 +6,8 @@
     "formatVersion": "1.0",
     "documents": [
         {
-            "title": "NumberTapped",
-            "overviewSubtitle": "数字抹消試験のアプリ制作",
+            "title": "数字抹消（Playgrounds）",
+            "overviewSubtitle": "パラメータを調整してアプリを作ろう",
             "detailSubtitle": "",
             "description": "",
             "contentIdentifier": "jp.inpw.NumberTapped",
@@ -30,7 +30,7 @@
         },
 
         {
-            "title": "NumberTappedTemplate",
+            "title": "数字抹消アプリテンプレート",
             "overviewSubtitle": "数字抹消試験アプリを1から作ろう",
             "detailSubtitle": "ゼロからつくるためのテンプレートです",
             "description": "",
