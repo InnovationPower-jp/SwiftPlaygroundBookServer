@@ -27,6 +27,31 @@
             "previewImageURLs": [
                 "https://raw.githubusercontent.com/InnovationPower-jp/SwiftPlaygroundBookServer/master/image/thumbnail-01.PNG"
             ]
+        },
+
+        {
+            "title": "NumberTappedTemplate",
+            "overviewSubtitle": "数字抹消試験アプリを1から作ろう",
+            "detailSubtitle": "ゼロからつくるためのテンプレートです",
+            "description": "",
+            "contentIdentifier": "jp.inpw.NumberTappedTemplate",
+            "contentVersion": "1.0",
+            "url": "https://github.com/InnovationPower-jp/SwiftPlaygroundBookServer/releases/download/1.0/NumberTappedTemplate.playgroundbook.zip",
+            "publishedDate": "2019-09-09T12:00:00+00:00",
+            "lastUpdatedDate": "2019-09-09T12:00:00+00:00",
+            "sha512": "030eefdbbf4cef79231c2adf9f1b152c308119a988a365b1fa9e843241bd652b3342357d0dd6651f26ca74aa0e22de1afe422861abb4c0cb8cd797202027df6e",
+            "thumbnailURL": "https://raw.githubusercontent.com/InnovationPower-jp/SwiftPlaygroundBookServer/master/image/logo.png",
+            "bannerImageURL": "https://raw.githubusercontent.com/InnovationPower-jp/SwiftPlaygroundBookServer/master/image/logo.png",
+            "additionalInformation": [
+                {
+                    "name": "Languages",
+                    "value": "Japanese"
+                }
+            ],
+            "previewImageURLs": [
+                "https://raw.githubusercontent.com/InnovationPower-jp/SwiftPlaygroundBookServer/master/image/thumbnail-01.PNG"
+            ]
         }
+
     ]
 }
